@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me: https://skosarex.t.me
 
-[![wakatime](https://wakatime.com/badge/user/5dee0892-25f2-4d5c-901a-de1fd8b6a0a8.svg)](https://wakatime.com/@5dee0892-25f2-4d5c-901a-de1fd8b6a0a8)
+[![wakatime](https://wakatime.com/badge/user/5dee0892-25f2-4d5c-901a-de1fd8b6a0a8.svg)](https://wakatime.com/@5dee0892-25f2-4d5c-901a-de1fd8b6a0a8 "Total time coded since May 10 2022)
 
 
 <!--
